@@ -1,8 +1,8 @@
 # WitAqua build target list
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
-# Weekly 15
-bluejay userdebug lineage-21.0 W
-shiba userdebug lineage-21.0 W
-spes userdebug lineage-21.0 W
-renoir userdebug lineage-21.0 W
+# Weekly 14
+bluejay userdebug 14 W
+renoir userdebug 14 W
+shiba userdebug 14 W
+spes userdebug 14 W
