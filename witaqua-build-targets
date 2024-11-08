@@ -2,7 +2,7 @@
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
 # Weekly 15
-bluejay userdebug 15 W
-shiba userdebug 15 W
-spes userdebug 15 W
-renoir userdebug 15 W
+bluejay userdebug 14 W
+shiba userdebug 14 W
+spes userdebug 14 W
+renoir userdebug 14 W
