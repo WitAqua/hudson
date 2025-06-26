@@ -1,5 +1,6 @@
 [
   {  "model": "bluejay", "oem": "Google", "name": "Pixel 6a" },
   {  "model": "nx", "oem": "Nintendo", "name": "Switch v1 / v2 / Lite / OLED [Android TV]" },
-  {  "model": "nx_tab", "oem": "Nintendo", "name": "Switch v1 / v2 / Lite / OLED [Tablet]" }
+  {  "model": "nx_tab", "oem": "Nintendo", "name": "Switch v1 / v2 / Lite / OLED [Tablet]" },
+  {  "model": "renoir", "oem": "Xiaomi", "name": "Mi 11 Lite 5G" }
 ]

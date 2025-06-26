@@ -58,5 +58,11 @@
         "kernel_nvidia_nvidia-nx",
         "kernel_nvidia_wireguard",
         "prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
+    ],
+    "renoir": [
+        "device_xiaomi_renoir",
+        "device_xiaomi_sm8350-common",
+        "kernel_xiaomi_sm8350",
+        "hardware_xiaomi"
     ]
 }
