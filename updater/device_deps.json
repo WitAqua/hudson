@@ -64,5 +64,11 @@
         "device_xiaomi_sm8350-common",
         "kernel_xiaomi_sm8350",
         "hardware_xiaomi"
-    ]
+    ],
+    "gts4lvwifi": [
+        "device_samsung_gts4lv-common",
+        "device_samsung_gts4lvwifi",
+        "hardware_samsung",
+        "kernel_samsung_sdm670"
+    ],
 }
