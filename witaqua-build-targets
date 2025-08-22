@@ -2,7 +2,7 @@
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
 # Weekly 15.2
-bluejay userdebug 15.2 W
-dipper userdebug 15.2 W
-renoir userdebug 15.2 W
-gts4lvwifi userdebug 15.2 W
+bluejay userdebug 15.2 W boot.img,dtbo.img,super_empty.img,vbmeta.img,vendor_boot.img
+dipper userdebug 15.2 W boot.img,recovery.img,super_empty.img,vbmeta.img
+renoir userdebug 15.2 W boot.img,dtbo.img,super_empty.img,vbmeta.img,vendor_boot.img
+gts4lvwifi userdebug 15.2 W boot.img,dtbo.img,recovery.img,vbmeta.img
