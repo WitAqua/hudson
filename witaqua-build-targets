@@ -6,3 +6,6 @@ bluejay userdebug 15.2 W boot.img,dtbo.img,super_empty.img,vbmeta.img,vendor_boo
 dipper userdebug 15.2 W boot.img,recovery.img,super_empty.img,vbmeta.img
 renoir userdebug 15.2 W boot.img,dtbo.img,super_empty.img,vbmeta.img,vendor_boot.img
 gts4lvwifi userdebug 15.2 W boot.img,dtbo.img,recovery.img,vbmeta.img
+
+# 16.0
+garnet userdebug 16.0 W boot.img,dtbo.img,recovery.img,vbmeta.img

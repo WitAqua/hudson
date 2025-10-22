@@ -70,5 +70,12 @@
         "device_samsung_gts4lvwifi",
         "hardware_samsung",
         "kernel_samsung_sdm670"
+    ],
+    "garnet": [
+        "device_xiaomi_garnet",
+        "hardware_xiaomi",
+        "kernel_xiaomi_sm7435",
+        "kernel_xiaomi_sm7435-devicetrees",
+        "kernel_xiaomi_sm7435-modules"
     ]
 }
