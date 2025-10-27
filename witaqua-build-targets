@@ -9,3 +9,4 @@ gts4lvwifi userdebug 15.2 W boot.img,dtbo.img,recovery.img,vbmeta.img
 
 # 16.0
 garnet userdebug 16.0 W boot.img,dtbo.img,recovery.img,vbmeta.img
+nabu userdebug 16.0 W boot.img,vendor_boot.img,,super_empty.img,dtbo.img,vbmeta.img

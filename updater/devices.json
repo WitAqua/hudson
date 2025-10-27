@@ -4,5 +4,6 @@
   {  "model": "nx_tab", "oem": "Nintendo", "name": "Switch v1 / v2 / Lite / OLED [Tablet]" },
   {  "model": "renoir", "oem": "Xiaomi", "name": "Mi 11 Lite 5G" },
   {  "model": "gts4lvwifi", "oem": "Samsung", "name": "Galaxy Tab S5e (Wi-Fi)" },
-  {  "model": "garnet", "oem": "Xiaomi", "name": "Redmi Note 13 Pro 5G / Poco X6 5G"}
+  {  "model": "garnet", "oem": "Xiaomi", "name": "Redmi Note 13 Pro 5G / Poco X6 5G"},
+  {  "model": "nabu", "oem": "Xiaomi", "name": "Xiaomi Pad 5"}
 ]

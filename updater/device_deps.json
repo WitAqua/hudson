@@ -77,5 +77,10 @@
         "kernel_xiaomi_sm7435",
         "kernel_xiaomi_sm7435-devicetrees",
         "kernel_xiaomi_sm7435-modules"
+    ],
+    "nabu": [
+        "device_xiaomi_nabu",
+        "hardware_xiaomi",
+        "kernel_xiaomi_nabu"
     ]
 }
