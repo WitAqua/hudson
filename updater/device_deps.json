@@ -1,4 +1,11 @@
 {
+    "bangkk": [
+        "device_motorola_bangkk",
+        "device_motorola_sm6375-common",
+        "hardware_motorola",
+        "hardware_samsung_slsi_nfc",
+        "kernel_motorola_sm6375"
+    ],
     "bluejay": [
         "device_google_bluejay",
         "device_google_gs-common",
