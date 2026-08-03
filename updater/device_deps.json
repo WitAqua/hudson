@@ -82,5 +82,11 @@
         "device_xiaomi_nabu",
         "hardware_xiaomi",
         "kernel_xiaomi_nabu"
+    ],
+    "fuji": [
+        "device_fcnt_fuji",
+        "device_fcnt_fuji-kernel",
+        "hardware_motorola",
+        "packages_apps_FCNTParts"
     ]
 }
