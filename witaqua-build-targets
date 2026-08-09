@@ -13,3 +13,4 @@ nabu userdebug 16.0 W boot.img,vendor_boot.img,,super_empty.img,dtbo.img,vbmeta.
 
 # 16.2
 fuji userdebug 16.2 W boot.img,vendor_boot.img,init_boot.img,vbmeta.img,super_empty.img
+c330ae userdebug 16.2 W boot.img,dtbo.img,recovery.img,vbmeta.img,super_empty.img

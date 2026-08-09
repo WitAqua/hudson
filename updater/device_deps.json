@@ -88,5 +88,9 @@
         "device_fcnt_fuji-kernel",
         "hardware_motorola",
         "packages_apps_FCNTParts"
+    ],
+    "c330ae": [
+        "device_rakuten_c330ae",
+        "kernel_rakuten_msm8937"
     ]
 }
