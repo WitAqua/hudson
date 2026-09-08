@@ -7,5 +7,6 @@
   {  "model": "garnet", "oem": "Xiaomi", "name": "Redmi Note 13 Pro 5G / Poco X6 5G"},
   {  "model": "nabu", "oem": "Xiaomi", "name": "Xiaomi Pad 5"},
   {  "model": "fuji", "oem": "FCNT", "name": "arrows Alpha"},
-  {  "model": "c330ae", "oem": "Rakuten", "name": "Rakuten Mini"}
+  {  "model": "c330ae", "oem": "Rakuten", "name": "Rakuten Mini"},
+  {  "model": "pdx213", "oem": "Sony", "name": "Xperia 10 III" }
 ]
