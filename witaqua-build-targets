@@ -15,3 +15,5 @@ fuji userdebug 16.2 W boot.img,vendor_boot.img,init_boot.img,vbmeta.img,super_em
 c330ae userdebug 16.2 W boot.img,dtbo.img,recovery.img,vbmeta.img,super_empty.img
 garnet userdebug 16.2 W boot.img,dtbo.img,recovery.img,vbmeta.img
 pdx213 userdebug 16.2 W boot.img,dtbo.img,recovery.img,vbmeta.img,vbmeta_system.img
+pdx203 userdebug 16.2 W boot.img,dtbo.img,recovery.img,vbmeta.img,vbmeta_system.img
+pdx206 userdebug 16.2 W boot.img,dtbo.img,recovery.img,vbmeta.img,vbmeta_system.img

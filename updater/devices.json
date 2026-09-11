@@ -8,5 +8,7 @@
   {  "model": "nabu", "oem": "Xiaomi", "name": "Xiaomi Pad 5"},
   {  "model": "fuji", "oem": "FCNT", "name": "arrows Alpha"},
   {  "model": "c330ae", "oem": "Rakuten", "name": "Rakuten Mini"},
-  {  "model": "pdx213", "oem": "Sony", "name": "Xperia 10 III" }
+  {  "model": "pdx213", "oem": "Sony", "name": "Xperia 10 III" },
+  {  "model": "pdx203", "oem": "Sony", "name": "Xperia 1 II" },
+  {  "model": "pdx206", "oem": "Sony", "name": "Xperia 5 II" }
 ]
