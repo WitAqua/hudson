@@ -82,7 +82,7 @@
     "nabu": [
         "device_xiaomi_nabu",
         "hardware_xiaomi",
-        "kernel_xiaomi_nabu"
+        "kernel_xiaomi_sm8150"
     ],
     "fuji": [
         "device_fcnt_fuji",
