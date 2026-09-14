@@ -93,5 +93,10 @@
     "c330ae": [
         "device_rakuten_c330ae",
         "kernel_rakuten_msm8937"
+    ],
+    "chime": [
+        "device_xiaomi_chime",
+        "hardware_xiaomi",
+        "kernel_xiaomi_chime"
     ]
 }
