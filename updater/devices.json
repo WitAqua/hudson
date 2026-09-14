@@ -11,5 +11,6 @@
   {  "model": "pdx213", "oem": "Sony", "name": "Xperia 10 III" },
   {  "model": "pdx203", "oem": "Sony", "name": "Xperia 1 II" },
   {  "model": "pdx206", "oem": "Sony", "name": "Xperia 5 II" },
-  {  "model": "joan_jp", "oem": "LG", "name": "V30+ / isai V30+" }
+  {  "model": "joan_jp", "oem": "LG", "name": "V30+ / isai V30+" },
+  {  "model": "chime", "oem": "Xiaomi", "name": "Redmi 9T / 9T NFC / 9 Power / Note 9 4G / POCO M3 "}
 ]
