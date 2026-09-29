@@ -94,6 +94,18 @@
         "device_rakuten_c330ae",
         "kernel_rakuten_msm8937"
     ],
+    "griffin": [
+        "device_sony_griffin",
+        "device_sony_sm8150-common",
+        "hardware_sony",
+        "kernel_sony_sm8150"
+    ],
+    "bahamut": [
+        "device_sony_bahamut",
+        "device_sony_sm8150-common",
+        "hardware_sony",
+        "kernel_sony_sm8150"
+    ],
     "chime": [
         "device_xiaomi_chime",
         "hardware_xiaomi",
