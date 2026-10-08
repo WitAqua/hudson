@@ -17,3 +17,4 @@ pdx213 userdebug 16.2 W boot.img,dtbo.img,recovery.img,vbmeta.img,vbmeta_system.
 pdx203 userdebug 16.2 W boot.img,dtbo.img,recovery.img,vbmeta.img,vbmeta_system.img
 pdx206 userdebug 16.2 W boot.img,dtbo.img,recovery.img,vbmeta.img,vbmeta_system.img
 nabu userdebug 16.2 W boot.img,vendor_boot.img,dtbo.img,vbmeta.img,vbmeta_system.img,super_empty.img
+sky userdebug 16.2 W boot.img,vendor_boot.img,dtbo.img,recovery.img,vbmeta.img,vbmeta_system.img,super_empty.img

@@ -98,5 +98,11 @@
         "device_xiaomi_chime",
         "hardware_xiaomi",
         "kernel_xiaomi_chime"
+    ],
+    "sky": [
+        "device_xiaomi_sky",
+        "hardware_xiaomi",
+        "kernel_xiaomi_sm4450",
+        "kernel_xiaomi_sm4450-modules"
     ]
 }
