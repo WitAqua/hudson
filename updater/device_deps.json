@@ -2,7 +2,6 @@
     "bluejay": [
         "device_google_bluejay",
         "device_google_bluejay-kernels",
-        "device_google_gs-common",
         "device_google_gs101"
     ],
     "nx": [
