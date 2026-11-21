@@ -9,7 +9,6 @@ joan_jp userdebug 15.2 W boot.img,recovery.img,super_empty.img
 
 # 16.2
 chime userdebug 16.2 W boot.img,dtbo.img,recovery.img,vbmeta.img
-fuji userdebug 16.2 W boot.img,vendor_boot.img,init_boot.img,vbmeta.img,super_empty.img
 c330ae userdebug 16.2 W boot.img,dtbo.img,recovery.img,vbmeta.img,super_empty.img
 pdx213 userdebug 16.2 W boot.img,dtbo.img,recovery.img,vbmeta.img,vbmeta_system.img
 pdx203 userdebug 16.2 W boot.img,dtbo.img,recovery.img,vbmeta.img,vbmeta_system.img
@@ -20,3 +19,4 @@ sky userdebug 16.2 W boot.img,vendor_boot.img,dtbo.img,recovery.img,vbmeta.img,v
 # 17.0
 bluejay userdebug 17.0 W boot.img,dtbo.img,super_empty.img,vbmeta.img,vendor_boot.img
 garnet userdebug 17.0 W boot.img,dtbo.img,recovery.img,vbmeta.img
+fuji userdebug 17.0 W boot.img,vendor_boot.img,init_boot.img,vbmeta.img,super_empty.img
